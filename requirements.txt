@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+fuzzywuzzy
+python-Levenshtein
+jupyter
+matplotlib
+seaborn
+plotly
